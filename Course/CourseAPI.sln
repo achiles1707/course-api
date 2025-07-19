@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseAPI.Api", "CourseAPI.Api\CourseAPI.Api.csproj", "{4A88F0E3-A862-4EA8-8821-43E0E01F1630}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{330A5D5A-D961-4C12-AE44-014D6B10287F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7C92F177-DD02-4291-B14D-5A5668415DB2}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+		Directory.Build.props = Directory.Build.props
+		Directory.Packages.props = Directory.Packages.props
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A88F0E3-A862-4EA8-8821-43E0E01F1630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A88F0E3-A862-4EA8-8821-43E0E01F1630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A88F0E3-A862-4EA8-8821-43E0E01F1630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A88F0E3-A862-4EA8-8821-43E0E01F1630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4A88F0E3-A862-4EA8-8821-43E0E01F1630} = {330A5D5A-D961-4C12-AE44-014D6B10287F}
+	EndGlobalSection
+EndGlobal
